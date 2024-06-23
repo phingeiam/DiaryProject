@@ -14,6 +14,9 @@
 		16E6B18A2C27D9520042D657 /* DiaryProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E6B1892C27D9520042D657 /* DiaryProjectTests.swift */; };
 		16E6B1942C27D9520042D657 /* DiaryProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E6B1932C27D9520042D657 /* DiaryProjectUITests.swift */; };
 		16E6B1962C27D9520042D657 /* DiaryProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E6B1952C27D9520042D657 /* DiaryProjectUITestsLaunchTests.swift */; };
+		2FD4A5B02C28090800922361 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD4A5AF2C28090800922361 /* ThirdView.swift */; };
+		2FD4A5B22C28091500922361 /* ForthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD4A5B12C28091500922361 /* ForthView.swift */; };
+		2FD4A5B42C28092C00922361 /* emojiInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD4A5B32C28092C00922361 /* emojiInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +47,9 @@
 		16E6B18F2C27D9520042D657 /* DiaryProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiaryProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		16E6B1932C27D9520042D657 /* DiaryProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryProjectUITests.swift; sourceTree = "<group>"; };
 		16E6B1952C27D9520042D657 /* DiaryProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2FD4A5AF2C28090800922361 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
+		2FD4A5B12C28091500922361 /* ForthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForthView.swift; sourceTree = "<group>"; };
+		2FD4A5B32C28092C00922361 /* emojiInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = emojiInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +80,9 @@
 		16E6B16C2C27D9500042D657 = {
 			isa = PBXGroup;
 			children = (
+				2FD4A5B32C28092C00922361 /* emojiInfo.swift */,
+				2FD4A5B12C28091500922361 /* ForthView.swift */,
+				2FD4A5AF2C28090800922361 /* ThirdView.swift */,
 				16E6B1772C27D9500042D657 /* DiaryProject */,
 				16E6B1882C27D9520042D657 /* DiaryProjectTests */,
 				16E6B1922C27D9520042D657 /* DiaryProjectUITests */,
@@ -257,7 +266,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FD4A5B22C28091500922361 /* ForthView.swift in Sources */,
 				16E6B17B2C27D9500042D657 /* ContentView.swift in Sources */,
+				2FD4A5B02C28090800922361 /* ThirdView.swift in Sources */,
+				2FD4A5B42C28092C00922361 /* emojiInfo.swift in Sources */,
 				16E6B1792C27D9500042D657 /* DiaryProjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
