@@ -1,0 +1,116 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "textures" : [
+    {
+      "cube-face" : "x-",
+      "filename" : "Universal -X 1x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "cube-face" : "x-",
+      "filename" : "Universal -X 2x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "cube-face" : "x-",
+      "filename" : "Universal -X 3x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "cube-face" : "y-",
+      "filename" : "Universal -Y 1x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "cube-face" : "y-",
+      "filename" : "Universal -Y 2x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "cube-face" : "y-",
+      "filename" : "Universal -Y 3x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "cube-face" : "z-",
+      "filename" : "Universal -Z 1x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "cube-face" : "z-",
+      "filename" : "Universal -Z 2x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "cube-face" : "z-",
+      "filename" : "Universal -Z 3x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "cube-face" : "x+",
+      "filename" : "Universal +X 1x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "cube-face" : "x+",
+      "filename" : "Universal +X 2x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "cube-face" : "x+",
+      "filename" : "Universal +X 3x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "cube-face" : "y+",
+      "filename" : "Universal +Y 1x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "cube-face" : "y+",
+      "filename" : "Universal +Y 2x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "cube-face" : "y+",
+      "filename" : "Universal +Y 3x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "cube-face" : "z+",
+      "filename" : "Universal +Z 1x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "cube-face" : "z+",
+      "filename" : "Universal +Z 2x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "cube-face" : "z+",
+      "filename" : "Universal +Z 3x.mipmapset",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ]
+}

@@ -9,15 +9,38 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        NavigationStack{
+            
+            ZStack {
+                Color.yellow
+                    .opacity(0.1)
+                    .ignoresSafeArea()
+                VStack{
+                    Spacer()
+                    Text("👀❔")
+                        .font(.system(size: 80))
+                    Text("How was your day?")
+                        .font(.title)
+                        .bold()
+                    Spacer()
+                    NavigationLink{
+                        SecondView()
+                    }
+                    label : {
+                        Text("Next")
+                            .font(.title2)
+                            .bold()
+                    }
+                }
+                
+            }
         }
-        .padding()
     }
 }
+    
+        
+    
+
 
 #Preview {
     ContentView()

@@ -14,6 +14,7 @@
 		16E6B18A2C27D9520042D657 /* DiaryProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E6B1892C27D9520042D657 /* DiaryProjectTests.swift */; };
 		16E6B1942C27D9520042D657 /* DiaryProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E6B1932C27D9520042D657 /* DiaryProjectUITests.swift */; };
 		16E6B1962C27D9520042D657 /* DiaryProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E6B1952C27D9520042D657 /* DiaryProjectUITestsLaunchTests.swift */; };
+		16E6B1A32C27E3A60042D657 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E6B1A22C27E3A60042D657 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		16E6B18F2C27D9520042D657 /* DiaryProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiaryProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		16E6B1932C27D9520042D657 /* DiaryProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryProjectUITests.swift; sourceTree = "<group>"; };
 		16E6B1952C27D9520042D657 /* DiaryProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		16E6B1A22C27E3A60042D657 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				16E6B1782C27D9500042D657 /* DiaryProjectApp.swift */,
 				16E6B17A2C27D9500042D657 /* ContentView.swift */,
+				16E6B1A22C27E3A60042D657 /* SecondView.swift */,
 				16E6B17C2C27D9520042D657 /* Assets.xcassets */,
 				16E6B17E2C27D9520042D657 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16E6B1A32C27E3A60042D657 /* SecondView.swift in Sources */,
 				16E6B17B2C27D9500042D657 /* ContentView.swift in Sources */,
 				16E6B1792C27D9500042D657 /* DiaryProjectApp.swift in Sources */,
 			);
